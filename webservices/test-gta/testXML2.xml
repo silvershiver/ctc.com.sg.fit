@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response ResponseReference="1479_1203_TOKEN">
+ 	<ResponseDetails Language="en">
+ 		<SearchHotelPriceResponse>
+ 			<HotelDetails>
+ 				<Hotel HasExtraInfo="true" HasMap="true" HasPictures="true" Recommended = "true">
+ 					<City Code="AMS"><![CDATA[ Amsterdam ]]></City>
+ 					<Item Code="AME"><![CDATA[ AMERICAN ]]></Item>
+					<LocationDetails>
+					 		<Location Code="G1"><![CDATA[ Central ]]></Location>
+					</LocationDetails>
+					<StarRating>5</StarRating>
+					<HotelRooms>
+						<HotelRoom Code="TB" Id="001:AME" NumberOfRooms="1" ExtraBed="true" SharingBedding="false"/>
+ 					</HotelRooms>
+ 					<Meals>
+					 	<Basis Code="B"><![CDATA[ breakfast ]]> </Basis>
+					 	<Breakfast Code="H"><![CDATA[ Hot Buffet ]]> </Breakfast>
+					</Meals>
+					<ItemPrice Currency="GBP">2185.00</ItemPrice>
+					<Confirmation Code="IM"><![CDATA[ AVAILABLE ]]></Confirmation>
+					<EssentialInformation>
+						<Information>
+							<Text><![CDATA[Complimentary dinner provided. ]]></Text>
+							<DateRange>
+								<FromDate>0001-01-01</FromDate>
+								<ToDate>9999-12-31</ToDate>
+							</DateRange>
+ 						</Information>
+					</EssentialInformation>
+ 				</Hotel>
+ 			</HotelDetails>
+		</SearchHotelPriceResponse>
+ 	</ResponseDetails>
+</Response>

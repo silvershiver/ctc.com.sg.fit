@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response ResponseReference="XA_P_013_16618-150968362146783"><ResponseDetails Language="en"><BookingResponse><Errors><Error><ErrorId>XML0012</ErrorId><ErrorText>Schema validation failed : cvc-complex-type.2.4.b: The content of element 'PaxIds' is not complete. One of '{PaxId}' is expected.</ErrorText></Error></Errors></BookingResponse></ResponseDetails></Response>

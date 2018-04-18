@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response ResponseReference="XA_P_013_16618-150952590502319"><ResponseDetails Language="en"><BookingResponse><Errors><Error><ErrorId>ERR0008</ErrorId><ErrorText>The maximum number of passengers allowed is 9</ErrorText></Error></Errors></BookingResponse></ResponseDetails></Response>
